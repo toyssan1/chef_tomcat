@@ -1,6 +1,6 @@
 #
 # Cookbook Name:: stuff
-# Recipe:: default
+# Recipe:: stuff
 # Author:: AJ Christensen <aj@junglist.gen.nz>
 #
 # Copyright 2008, OpsCode, Inc.
